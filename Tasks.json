@@ -1,0 +1,47 @@
+[
+    {
+        "id": 0,
+        "name": "SD3",
+        "subject": "ADS",
+        "deadline": "2024-11-14 19:00",
+        "dayOfWeek": "Thursday",
+        "note": "Task Manager su VTS ir Queue",
+        "misc": "nu Strimaiciui patiks"
+    },
+    {
+        "id": 1,
+        "name": "SD2",
+        "subject": "ADS",
+        "deadline": "2024-11-17 23:00",
+        "dayOfWeek": "Sunday",
+        "note": "Pateikti .py faila",
+        "misc": "viska uzbaik tik "
+    },
+    {
+        "id": 2,
+        "name": "test",
+        "subject": "test",
+        "deadline": "2024-11-19 10:20",
+        "dayOfWeek": "Tuesday",
+        "note": "test",
+        "misc": "test"
+    },
+    {
+        "id": 3,
+        "name": "ND3",
+        "subject": "OS",
+        "deadline": "2024-11-20 13:55",
+        "dayOfWeek": "Wednesday",
+        "note": "Scriptukas",
+        "misc": null
+    },
+    {
+        "id": 4,
+        "name": "Koliokviumas",
+        "subject": "Matematika",
+        "deadline": "2024-11-21 10:20",
+        "dayOfWeek": "Thursday",
+        "note": "1-8 Temos",
+        "misc": null
+    }
+]
